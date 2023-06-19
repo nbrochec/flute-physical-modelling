@@ -10,6 +10,8 @@ The repository includes the following files:
 
 - `max/`: This directory contains Max patches that utilize the Python implementation to create real-time flute simulations. The Max patches provide a user-friendly interface for controlling various parameters of the flute model and generating sounds.
 
+- `graphs/`: Contains block graphs illustrating the models' structure.
+
 ## Getting Started
 
 To use the flute physical modeling algorithm, follow these steps:
