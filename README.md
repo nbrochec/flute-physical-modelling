@@ -87,9 +87,9 @@ Contributions to this repository are welcome! If you have any improvements or ne
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which applies to the specific code and resources created by the repository owner. However, please note that the original work of Cook, Garton, Karjalainen, and Välimäki, including their code and any associated licenses, retains its own separate licensing.
+This project is licensed under the [MIT License](LICENSE), which applies to the specific code and resources created by the repository owner. However, please note that the original work of Smith, Cook, Garton, Karjalainen, and Välimäki, including their code and any associated licenses, retains its own separate licensing.
 
-The licenses and terms of use for the original work by Cook, Garton, Karjalainen, and Välimäki apply to their respective contributions. Any use, modification, or distribution of their work should comply with the licenses and terms specified by the original authors.
+The licenses and terms of use for the original work by Smith, Cook, Garton, Karjalainen, and Välimäki apply to their respective contributions. Any use, modification, or distribution of their work should comply with the licenses and terms specified by the original authors.
 
 Please be sure to review and respect the licenses and terms of the original work when using or modifying their code. The license specified in this repository applies solely to the code and resources created by the repository owner.
 
