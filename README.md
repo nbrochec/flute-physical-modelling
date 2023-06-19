@@ -40,4 +40,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Acknowledgments
 
-The flute physical modeling algorithm implemented in this repository is based on the research and work of Perry R. Cook, Xavier Serra, Julius O. Smith III, and others. We would like to express our gratitude for their valuable contributions to the field of physical modeling synthesis.
+The flute physical modeling algorithm implemented in this repository is based on the research and work of Perry R. Cook, Brad Garton, Karjalainen, Välimäki and others. We would like to express our gratitude for their valuable contributions to the field of physical modeling synthesis.
