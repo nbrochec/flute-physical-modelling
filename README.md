@@ -14,7 +14,7 @@ Welcome to the Flute Physical Modelling repository! This GitHub repository conta
 
 ## Introduction
 
-The flute physical modelling technique aims to simulate the behavior and sound of a flute by modeling the physical components and interactions involved. This repository provides you with the necessary code and resources to understand and explore flute physical modelling using both Python and Max.
+The flute physical modelling technique aims to simulate the behavior and sound of a flute by modeling the physical components and interactions involved. This repository provides you with the necessary code to explore flute physical modelling using both Python and Max.
 
 ## References
 
