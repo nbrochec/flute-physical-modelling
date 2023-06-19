@@ -5,6 +5,7 @@ Welcome to the Flute Physical Modelling repository! This GitHub repository conta
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [References](#references)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -14,6 +15,13 @@ Welcome to the Flute Physical Modelling repository! This GitHub repository conta
 ## Introduction
 
 The flute physical modelling technique aims to simulate the behavior and sound of a flute by modeling the physical components and interactions involved. This repository provides you with the necessary code and resources to understand and explore flute physical modelling using both Python and Max.
+
+## References
+
+- Smith, Julius O. "Physical modeling using digital waveguides." Computer music journal 16.4 (1992): 74-91.
+- Karjakainen, M. "Transmission-line modeling and real-time synthesis of string and wind instruments." Proceedings of 1991 ICMC (1991): 293-296.
+- Cook, Perry R., et al. "PHYSICAL MODELING AND SIGNAL PROCESSING." (1992).
+- Valimaki, V., et al. "A real-time DSP implementation of a flute model." Acoustics, Speech, and Signal Processing, IEEE International Conference on. Vol. 2. IEEE Computer Society, 1992.
 
 ## Installation
 
