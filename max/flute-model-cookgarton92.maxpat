@@ -40,6 +40,19 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontsize" : 18.721122125138958,
+					"id" : "obj-13",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 212.5, 28.482248520710058, 246.0, 48.0 ],
+					"text" : "Go to Help Menu /Examples/gen/gen~.flute"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-9",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -68,7 +81,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 9.5, 35.0, 112.0, 20.0 ],
+					"patching_rect" : [ 9.5, 32.0, 112.0, 20.0 ],
 					"text" : "Brad Garton's code"
 				}
 
