@@ -22,6 +22,7 @@ The flute physical modelling technique aims to simulate the behavior and sound o
 - Karjakainen, M. "Transmission-line modeling and real-time synthesis of string and wind instruments." Proceedings of 1991 ICMC (1991): 293-296.
 - Cook, Perry R., et al. "PHYSICAL MODELING AND SIGNAL PROCESSING." (1992).
 - Valimaki, V., et al. "A real-time DSP implementation of a flute model." Acoustics, Speech, and Signal Processing, IEEE International Conference on. Vol. 2. IEEE Computer Society, 1992.
+- Välimäki, Vesa, Matti Karjalainen, and Timo Laakso. "Modeling of woodwind bores with finger holes." In International Computer Music Conference ICMC´ 93, Tokyo, Japan, Sept. 10-15, 1993, pp. 56-63. Int. Computer Music Association, 1993.
 
 ## Installation
 
