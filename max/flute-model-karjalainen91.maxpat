@@ -45,7 +45,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 26.0, 64.0, 47.0, 20.0 ],
-					"presentation_linecount" : 2,
 					"text" : "air flow"
 				}
 
@@ -262,7 +261,7 @@
 						}
 ,
 						"classnamespace" : "dsp.gen",
-						"rect" : [ 75.0, 102.0, 438.0, 721.0 ],
+						"rect" : [ 685.0, 114.0, 438.0, 721.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -367,7 +366,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 84.0, 200.0, 26.0, 20.0 ],
+									"patching_rect" : [ 76.0, 200.0, 26.0, 20.0 ],
 									"text" : "Z-n"
 								}
 
